@@ -1,0 +1,6 @@
+{
+  "name": "OncoRx Prescription Analyzer",
+  "description": "AI-powered oncology prescription analyzer reading handwritten Arabic & English chemotherapy prescriptions, matching stock catalog, and calculating cycle and overall costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
